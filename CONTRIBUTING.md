@@ -20,7 +20,7 @@ Thanks a lot for being interested in contributing to this open-source project!
 
 # I can't figure it out!
 Don't worry, we got your back. Come join us at the [Discord server](https://discord.gg/ZvQ6F6QSUB)!
-
-
-
+  
+  
+  
 Thanks for reading!
