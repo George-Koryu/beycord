@@ -1,14 +1,14 @@
 {
   "name": "beycord",
   "version": "1.0.0",
-  "description": "An open-sourced Discord Beyblade bot!",
+  "description": "An open-source Discord Beyblade bot!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SunSOG/beycord.git"
+    "url": "git+https://github.com/CorruptX/beycord.git"
   },
   "keywords": [
     "beycord",
@@ -18,7 +18,7 @@
   "author": "SunSOG",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/SunSOG/beycord/issues"
+    "url": "https://github.com/CorruptX/beycord/issues"
   },
-  "homepage": "https://github.com/SunSOG/beycord#readme"
+  "homepage": "https://github.com/CorruptX/beycord#readme"
 }
